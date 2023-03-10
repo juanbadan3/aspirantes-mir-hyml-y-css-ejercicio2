@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+{
+    font-family: 'arial' , 'franklin, gothic medium' , 'arial narrow' , 'sans-serif';
+}
+
+form {
+    padding: 2px;
+    width: 300px;
+    margin: 0 auto;
+    background: linear-gradient(#bd09b7, #6b4cf5);
+    border-radius:  20px;
+    box-shadow: 3px 3px 5px 1px black;
+    position: relative;
+}   
+
+h1 {
+    color: white;
+}
+label {
+    color: white;
+    padding: 7px;
+}
+fieldset {
+    padding: 5px;
+    
+}
+#password, #email {
+    width: 100%;
+}
